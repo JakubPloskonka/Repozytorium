@@ -1,12 +1,12 @@
-#Autors: 
+# Autors: 
 
 Jakub Płoskonka, Rafał Nowicki
 
-#Creation date: 
+# Creation date: 
 
 02.01.2025 r
 
-#Project Purpose: 
+# Project Purpose: 
 
 Implementation of the Nearest Neighbors Algorithm and Comparison with the Library Version
 
